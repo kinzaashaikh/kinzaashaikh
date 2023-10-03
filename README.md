@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kinza Nek</h1>
+<h1 align="center">Hi 👋, I'm Kinza Shaikh</h1>
 <h3 align="center">I am a web developer from Pakistan and I am currently Studying in Class 7</h3>
 
 <img align="right" alt="coding" width="400" src="https://scitechdaily.com/images/Computer-Code-Speed-Algorithm-Concept.gif">
